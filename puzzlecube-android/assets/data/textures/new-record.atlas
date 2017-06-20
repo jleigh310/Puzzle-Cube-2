@@ -1,0 +1,12 @@
+
+new-record.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+new-record
+  rotate: false
+  xy: 1, 1
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1

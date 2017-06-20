@@ -1,0 +1,105 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: {
+		default: { file: default.fnt }
+	},
+		
+	com.badlogic.gdx.graphics.Color: {
+		white: { r:1, g:1, b:1, a:1 }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+		default: {
+			up: border-black,
+			down: border-blue,
+			font: default,
+			fontColor: white
+		},
+		default-disabled: {
+			up: border-black-disabled,
+			down: border-black-disabled,
+			font: default,
+			fontColor: white
+		},
+		toggle: {
+			up: border-black,
+			down: border-blue,
+			checked: border-blue,
+			font: default,
+			fontColor: white
+		},
+		toggle-disabled: {
+			up: border-black-disabled,
+			down: border-black-disabled,
+			checked: border-black-disabled,
+			font: default,
+			fontColor: white
+		}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+		lock: {
+			up: unlocked-button,
+			down: locked-button,
+			checked: locked-button
+		},
+		vertical-lock: {
+			up: vertical-unlocked-button,
+			down: vertical-locked-button,
+			checked: vertical-locked-button
+		},
+		horizontal-lock: {
+			up: horizontal-unlocked-button,
+			down: horizontal-locked-button,
+			checked: horizontal-locked-button
+		},
+		undo: {
+			up: undo-button,
+			down: undo-button-pressed
+		},
+		undo-disabled: {
+			up: undo-button-disabled,
+			down: undo-button-disabled
+		},
+		pause: {
+			up: pause-button,
+			down: pause-button-pressed
+		},
+		shuffle: {
+			up: shuffle-button,
+			down: shuffle-button
+		},
+		credits: {
+			up: credits-button,
+			down: credits-button-pressed
+		},
+		help: {
+			up: help-button,
+			down: help-button-pressed
+		}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+		default: {
+			font: default,
+			fontColor: white
+		}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+		default-horizontal: {
+			background: slider,
+			knob: slider-knob
+		},
+		default-horizontal-disabled: {
+			background: slider-disabled
+		}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+		default: {
+			titleFont: default,
+			background: border-black,
+			titleFontColor: white
+		}
+	}
+}

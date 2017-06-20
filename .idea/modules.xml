@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/puzzlecube/puzzlecube.iml" filepath="$PROJECT_DIR$/puzzlecube/puzzlecube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzlecube-android/puzzlecube-android.iml" filepath="$PROJECT_DIR$/puzzlecube-android/puzzlecube-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzlecube-desktop/puzzlecube-desktop.iml" filepath="$PROJECT_DIR$/puzzlecube-desktop/puzzlecube-desktop.iml" />
+    </modules>
+  </component>
+</project>

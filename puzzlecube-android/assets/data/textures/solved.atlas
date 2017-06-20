@@ -1,0 +1,47 @@
+
+solved.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+letter-0
+  rotate: false
+  xy: 1, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+letter-1
+  rotate: false
+  xy: 129, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+letter-2
+  rotate: false
+  xy: 257, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+letter-3
+  rotate: false
+  xy: 385, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+letter-4
+  rotate: false
+  xy: 513, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+letter-5
+  rotate: false
+  xy: 641, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1

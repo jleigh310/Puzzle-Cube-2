@@ -1,0 +1,200 @@
+
+ui.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+credits-button-pressed
+  rotate: false
+  xy: 1, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+credits-button
+  rotate: false
+  xy: 1, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+help-button-pressed
+  rotate: false
+  xy: 65, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+help-button
+  rotate: false
+  xy: 65, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+horizontal-locked-button
+  rotate: false
+  xy: 129, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+horizontal-unlocked-button
+  rotate: false
+  xy: 129, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+locked-button
+  rotate: false
+  xy: 193, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+moves-image
+  rotate: false
+  xy: 193, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+pause-button-pressed
+  rotate: false
+  xy: 257, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+pause-button
+  rotate: false
+  xy: 257, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+shuffle-button-pressed
+  rotate: false
+  xy: 321, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+shuffle-button
+  rotate: false
+  xy: 321, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+star-image
+  rotate: false
+  xy: 385, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+time-image
+  rotate: false
+  xy: 385, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+undo-button-disabled
+  rotate: false
+  xy: 449, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+undo-button-pressed
+  rotate: false
+  xy: 449, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+undo-button
+  rotate: false
+  xy: 513, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+unlocked-button
+  rotate: false
+  xy: 513, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+vertical-locked-button
+  rotate: false
+  xy: 577, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+vertical-unlocked-button
+  rotate: false
+  xy: 577, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+border-black-disabled
+  rotate: false
+  xy: 641, 93
+  size: 34, 34
+  split: 15, 15, 15, 15
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+border-black
+  rotate: false
+  xy: 641, 57
+  size: 34, 34
+  split: 15, 15, 15, 15
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+border-blue
+  rotate: false
+  xy: 677, 93
+  size: 34, 34
+  split: 15, 15, 15, 15
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+slider-knob
+  rotate: false
+  xy: 641, 25
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1
+color-sample
+  rotate: false
+  xy: 677, 77
+  size: 14, 14
+  split: 6, 6, 6, 6
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+slider-disabled
+  rotate: false
+  xy: 713, 119
+  size: 16, 8
+  split: 4, 4, 0, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 651, 47
+  size: 10, 8
+  split: 4, 4, 0, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
